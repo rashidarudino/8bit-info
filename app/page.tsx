@@ -23,7 +23,7 @@ import {
   SiApache,
   SiBootstrap,
   SiCplusplus,
-  SiCsharp,
+  SiSharp,
   SiExpress,
   SiHtml5,
   SiJavascript,
@@ -347,7 +347,7 @@ export default function Home() {
                 </div>
                 <div className='nes-badge bg-[#6D6E6F] is-icon flex items-center space-x-2 p-2 rounded-md shadow-md'>
                   <span className='flex items-center text-white'>
-                    <SiCsharp size={20} />
+                    <SiSharp size={20} />
                   </span>
                   <span className='text-black'>C#</span>
                 </div>
